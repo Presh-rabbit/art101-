@@ -4,6 +4,23 @@
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #DDD8C4;
-  }
+    border: solid 1px hsl(26, 92%, 90%);
+    background-color: #f5e2d2;
+} 
+
+#content {
+  margin: 10px;
+  padding: 10px;
+  border: solid 0px #888;
+  background-color: hwb(232 75% 0%);
+}
+   
+body {
+  background-color: hwb(230 60% 6%);
+}
+
+.photo {
+  width: 200px; /* Set a fixed width for both images */
+  height: 200px; /* Set a fixed height for both images */
+  object-fit: cover; /* Ensures the images fill the area without distortion */
+}
