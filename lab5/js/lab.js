@@ -1,6 +1,9 @@
-// index.js - purpose and description here
-// Author: Your Name
-// Date:
+/**
+// * index.js - purpose and description here
+// * Author: Precious Garcia <prngarci@ucsc.edu>
+// * Date: October 21
+// * lisence: Public Domain
+*/ 
 
 // Constants
 
@@ -19,3 +22,25 @@ function main() {
 
 // let's get this party started
 main();
+
+// Define Variables
+make = "Toyota";
+model = "Prius";
+color = "Silver";
+year = 2023;
+
+// calculate 
+age = 2024 - year;
+
+// output 
+document.writeln("Make:" + make + "<br>");
+document.writeln("Model:" + model + "<br>");
+document.writeln("Color:" + color + "<br>");
+document.writeln("year:" + year + "<br>");
+document.writeln("Age:" + age + "years<br>");
+
+
+
+
+
+

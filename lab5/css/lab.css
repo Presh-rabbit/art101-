@@ -4,6 +4,23 @@
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #DDD8C4;
+    border: solid 1px #afa0d9;
+    background-color: #bbb8c2;
+  } 
+
+  #content {
+    margin: 10px;
+    padding: 10px;
+    border: solid 0px #818181;
+    background-color: hwb(0 80% 20%);
   }
+     
+  body {
+    background-color: hwb(264 75% 23%);
+  }
+
+
+   .photo {
+    width: 300px; /* Set a fixed width for both images */
+    height: 300px; /* Set a fixed height for both images */
+   
