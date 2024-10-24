@@ -1,6 +1,11 @@
 /* Here we can set styles for this lab page that we don't want to effect others pages */
 
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
+.photo {
+  width: 400px; /* Set a fixed width for both images */
+  height: 300px; /* Set a fixed height for both images */
+  object-fit: cover; /* Ensures the images fill the area without distortion */ }
+
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
@@ -20,7 +25,4 @@
   }
 
 
-   .photo {
-    width: 300px; /* Set a fixed width for both images */
-    height: 300px; /* Set a fixed height for both images */
-    object-fit: cover; /* Ensures the images fill the area without distortion */ }
+  
