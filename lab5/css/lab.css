@@ -5,7 +5,7 @@
   width: 400px; /* Set a fixed width for both images */
   height: 300px; /* Set a fixed height for both images */
   object-fit: cover; /* Ensures the images fill the area without distortion */ }
-
+  
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
