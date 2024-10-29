@@ -39,5 +39,5 @@ return nameSorted;
 }
 
 // output 
-document.writeln("Oh hey, I've fixed your name: Precious ",
+document.writeln("Oh hey, I've fixed your name: ",
   sortUserName(), "</br>");
