@@ -11,17 +11,17 @@
   .minor-section {
       padding: 10px;
       margin-bottom: 10px;
-      border: solid 1px hwb(300 69% 0%);
-      background-color: #8b80db;
+      border: solid 1px hwb(6 36% 0%);
+      background-color: #facc90;
   } 
   
   #content {
     margin: 10px;
     padding: 10px;
-    border: solid 0px #9b91c9;
-    background-color: hwb(258 50% 6%);
+    border: solid 0px #d8d7de;
+    background-color: hwb(28 47% 0%);
   }
      
   body {
-    background-color: hwb(254 11% 66%);
+    background-color: hwb(17 68% 0%);
   }
