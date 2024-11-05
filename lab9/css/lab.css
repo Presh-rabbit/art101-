@@ -12,13 +12,13 @@
       padding: 10px;
       margin-bottom: 10px;
       border: solid 1px hwb(0 73% 27%);
-      background-color: #daebec;
+      background-color: #d7eff0;
   } 
   
   #content {
     margin: 10px;
     padding: 10px;
-    border: solid 0px #e6e2ff;
+    border: solid 0px #756e9c;
     background-color: hwb(246 84% 0%);
   }
 
@@ -31,8 +31,8 @@
     font-weight: bold;
     font-family:"comic sans MS";
     font-size: 16x;
-    background: linear-gradient(45eg,) rgb(153, 153, 255); 
-    border: dotted 50px rgb(123, 110, 169);
+    background: linear-gradient(45eg,) rgb(196, 221, 245); 
+    border: dotted 5px rgb(129, 117, 214);
     webkit-background-clip: text;
     webkit-text-color: Transparent; 
   
@@ -42,7 +42,7 @@
 
     button {
     background-color:  #262146;
-    color: rgb(208, 177, 239);
+    color: rgb(192, 227, 246);
     border: 3px;
     cursor: pointer;
     border-radius: 5px;
