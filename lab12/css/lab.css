@@ -1,0 +1,24 @@
+/* Here we can set styles for this lab page that we don't want to effect others pages */
+
+/* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
+.photo { 
+    width: 200px;
+    height: 200px;
+    object-fit: cover;/* Ensures the images fill the area without distortion */ }
+.minor-section {
+    padding: 10px;
+    margin-bottom: 1px;
+    border: solid 1px rgb(194, 192, 255);
+    background-color: rgb(195, 209, 249);
+}
+    #content {
+    margin: 10px;
+    padding: 10px;
+    border: solid 0px pink;  
+    background-color: rgb(222, 222, 255);
+    Font-family: 'Gill Sans','Tahoma', sans-serif
+}
+
+    body {
+    background-color: peachpuff;
+}
