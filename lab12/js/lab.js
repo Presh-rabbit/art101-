@@ -1,15 +1,16 @@
 /*
-  sortingHat.js
-  This script assigns a Hogwarts House (Gryffindor, Ravenclaw, Slytherin, or Hufflepuff) 
-  based on the length of the input string.
-  It uses a click event listener to get the input from the user, 
-  then displays the assigned house in the output.
+   lab.js 12 - This simple JavaScript/jQuery script gets a value from an input field and outputs a modified version by sorting the characters of the string alphabetically.
+
+   Requirements: jQuery must be loaded for this script to work.
+
+   Author: Precious Garcia
+   Date: 2024
 */
 
-// Function that assigns a house based on the length of the name
+// Function that assigns a house based on the length of name
 // create sortingHat()
 // get length of str
-// mod length 4
+// mod length to 4
 function sortingHat(str) {
     // return slytherin, gryffindor, ravenclaw, and hufflepuff
 const houses = [
