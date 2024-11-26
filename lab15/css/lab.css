@@ -1,0 +1,26 @@
+/* Here we can set styles for this lab page that we don't want to effect others pages */
+
+/* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px hsl(20, 8%, 78%);
+    background-color: #989898;
+  }
+
+  #content {
+    margin: 10px;
+    padding: 10px;
+    border: solid 0px hsl(218, 32%, 76%);
+    background-color: hwb(0 100% 0%);
+  }
+     
+  body {
+    background-color: hwb(86 71% 17%);
+  }
+
+
+   .photo {
+    width: 300px; /* Set a fixed width for both images */
+    height: 300px; /* Set a fixed height for both images */
+    object-fit: cover; /* Ensures the images fill the area without distortion */ }
