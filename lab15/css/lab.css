@@ -4,19 +4,19 @@
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 1px hsl(20, 8%, 78%);
-    background-color: #989898;
+    border: solid 1px hsl(20, 100%, 89%);
+    background-color: #ffa4a4;
   }
 
   #content {
     margin: 10px;
     padding: 10px;
-    border: solid 0px hsl(218, 32%, 76%);
-    background-color: hwb(0 100% 0%);
+    border: solid 0px hsl(217, 100%, 85%);
+    background-color: rgb(172, 189, 255);
   }
      
   body {
-    background-color: hwb(86 71% 17%);
+    background-color: hwb(70 90% 0%);
   }
 
 
